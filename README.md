@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋!
+<h1><p align="left">Hi 👋! </p></h1>
 <!--
 **sohail7297/sohail7297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
