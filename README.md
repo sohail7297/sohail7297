@@ -1,4 +1,4 @@
-<h1><p align="left">Hi 👋! </p></h1>
+<h1><p align="left"> Hii, I'm Sohail  👋 ! </p></h1>
 
 ###
 
@@ -35,6 +35,12 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+
+
+### 📊 GitHub Stats  
+![Sohail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohail7297&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail7297&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohail7297&theme=dark&hide_border=true)
 
 <!--
 <img src="https://raw.githubusercontent.com/rajdev12/rajdev12/output/snake.svg" alt="Snake animation" />
