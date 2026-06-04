@@ -42,9 +42,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail7297&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohail7297&theme=dark&hide_border=true)
 
-<!--
-<img src="https://raw.githubusercontent.com/rajdev12/rajdev12/output/snake.svg" alt="Snake animation" />
--->
+
+###
+
+<img src="https://raw.githubusercontent.com/sohail7297/sohail7297/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=sohail7297o&color=blue)
