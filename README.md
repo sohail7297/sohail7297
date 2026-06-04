@@ -40,9 +40,8 @@
 <!--
 <img src="https://raw.githubusercontent.com/rajdev12/rajdev12/output/snake.svg" alt="Snake animation" />
 -->
-###
 
-👀 Profile Views  
+###👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=sohail7297o&color=blue)
 
 ###
