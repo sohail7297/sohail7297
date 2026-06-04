@@ -46,9 +46,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sohail7297o&color=blue)
 
 ###
-
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/sohail7297/count.svg?"  />
 </div>
 
 ###
+-->
