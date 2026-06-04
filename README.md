@@ -1,4 +1,4 @@
-<h1><p align="left"> Hii, I'm Sohail  👋 ! </p></h1>
+<h1><p align="left"> Hii, I'm Sohail  👋  </p></h1>
 
 ###
 
