@@ -52,11 +52,8 @@
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=sohail7297o&color=blue)
 
+### 🤝 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohail-khan-1716aa35b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohailkhan74336@gmail.com)  
 ###
-<!--
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sohail7297/count.svg?"  />
-</div>
 
-###
--->
